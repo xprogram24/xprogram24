@@ -37,7 +37,7 @@ I'm a dedicated **Full-Stack Developer** and final-year Computer Science student
 ### 📫 Connect with me
 
 - 📧 **Email**: [cexcel58@gmail.com](mailto:cexcel58@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/chika-excel]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/chika-excel-125170291/))
+- 💼 **LinkedIn**: [linkedin.com/in/chika-excel](https://www.linkedin.com/in/chika-excel-125170291/))
 - 🎮 **Fun Fact**: When I'm not coding, you'll find me exploring the world of **Tomb Raider**, playing **GTA V**
 
 *Pronouns: He/Him*
