@@ -39,6 +39,6 @@ Turning complex transactional datasets into structured relational models, automa
 
 ### 📬 Connect With Me
 
-* **Portfolio:** [Interactive Case Studies](https://my-portfolio-one-sigma-25.vercel.app/)
+* **Portfolio:** [Interactive Case Studies](#)
 * **LinkedIn:** [linkedin.com/in/chika-excel-125170291](https://linkedin.com/in/chika-excel-125170291)
 * **Email:** [cexcel58@gmail.com](mailto:cexcel58@gmail.com)
